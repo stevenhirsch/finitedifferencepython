@@ -1,6 +1,6 @@
 # Using the Taylor Expansion to Calculate Finite Differences in Python
 
-More detail pertaining the math underlying the function can be found at: https://mvmtsci.com/using-the-taylor-expansion-to-calculate-finite-differences-in-python
+More detail pertaining the math underlying the function can be found at: https://www.stevenhirsch.ca/python-derivative/
 
 As the title suggests, this repository contains code to compute finite differences for any derivative and order of accuracy using the Taylor Expansion. Code is contained in the .py file, while code + further details and the performance of the function can be found in the .ipynb file.
 
